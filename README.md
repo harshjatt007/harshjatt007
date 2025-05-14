@@ -1,3 +1,11 @@
+<h3 align="center">Computer Science and Engineering Student | Aspiring Full-Stack Developer & Cybersecurity Enthusiast</h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Banner"/>
+</p>
+
+---
+
 # 👋 Hi there, I'm Abhishek Choudhary
 
 🎓 BE CSE Student at Chitkara University  
@@ -9,11 +17,12 @@
 
 ## 🚀 About Me
 
-- 🔐 Building **Trojan Trap**, a file scanner that detects malicious files using PostgreSQL
-- 🌐 Working on full-stack MERN projects with features like video uploads, payments, and role-based access
-- 🛠️ Developing a **Semaphore Simulator** and authentication-enabled platforms using React and Tailwind CSS
-- 📚 Constantly learning new tech and sharpening core CS fundamentals
-- 💬 Preparing for **software engineering placements** with a focus on Data Structures, Algorithms, and Aptitude
+- 🔐 Building **[Trojan Trap](https://github.com/harshjatt007/Trojan-Trap)** – a file scanner that detects malicious files using PostgreSQL
+- 🌐 Working on full-stack **MERN projects** with video uploads, payments, and role-based access
+- 🛠️ Created **[Bug_Reporting_System](https://github.com/harshjatt007/Bug_Reporting_System)** – a JavaScript-based platform for efficient bug tracking
+- ♟️ Developed a web-based **[Chess Game](https://github.com/harshjatt007/chess)** using JavaScript
+- 📈 Built **[Sales_profit](https://github.com/harshjatt007/Sales_profit)** – sales data analyzer using JS
+- 💬 Preparing for **software engineering placements** with a focus on DSA & Aptitude
 
 ---
 
@@ -39,29 +48,36 @@
 
 ---
 
+## 📊 Summary Cards
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshjatt007&theme=aura" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshjatt007&theme=aura" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshjatt007&theme=aura" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshjatt007&theme=aura" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshjatt007&theme=aura&utcOffset=5.5" />
+</div>
+
+---
+
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-choudhary-0a349a262)  
 - 🧠 [LeetCode](https://leetcode.com/u/Abhishek_0761/)  
-- 💬 Mail: abhishekchoudhary236@gmail.com  
+- 💬 Mail: **abhishekchoudhary236@gmail.com**
+
+---
+
+<p align="center">
+  <b>Portfolio:</b> Coming Soon — Stay Tuned! 🚀
+</p>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=harshjatt007&label=Profile%20Views&pretty=true" />
+  </a>
+</p>
 
 ---
 
 > *"Focused on learning, building, and growing every day."*
-
-
-
-<!--
-**harshjatt007/harshjatt007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
