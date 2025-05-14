@@ -43,6 +43,8 @@
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 ![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshjatt007&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshjatt007&layout=compact&theme=radical)
 
